@@ -4,7 +4,7 @@
 <?php
 
 
-$s= "lol";
+$s= "TEST";
 echo $s
 
 ?>
